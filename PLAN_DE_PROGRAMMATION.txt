@@ -1,0 +1,26 @@
+	Voici l'ordre dans lequel je vais mener à bien ce projet.
+
+ * Programme d'analyse *
+--> Coder la détection d'un nouveau match disponible et l'enregistrement de tous les prix disponibles dès le départ.
+--> Coder pour viagogo la détection des billets vendus et à quels prix.
+   -> Ainsi, on pourra lancer le deuxième programme dès que le premier aura détecté et noté les prix du nouveau match. Ainsi, on pourra comparer les prix et voir si les ventes sur viagogo ont bien des prix supérieurs aux prix de ventes sur le site.
+--> Coder l'envoi de notifs par mail pour chaque nouvel vente et pour chaque nouveau match.
+--> S'inscrire sur http://www.online.net/ et s'abonner pour un serveur.
+
+
+--> Coder la détection d'un match complet
+-->
+
+
+
+
+
+ * Les fichiers à mettre en place :
+	- Fichier tmp nomMatchs
+	- Fichier tmp matchsNonComplets
+	- Fichier log (utilisé juste au début)
+	- Fichier nouveauxMatchs
+	- Fichier nouveauxMatchsComplets
+
+
+
